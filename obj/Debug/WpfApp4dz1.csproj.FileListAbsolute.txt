@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\WpfApp4dz1\WpfApp4dz1\bin\Debug\WpfApp4dz1.exe.config
+C:\Users\user\source\repos\WpfApp4dz1\WpfApp4dz1\bin\Debug\WpfApp4dz1.exe
+C:\Users\user\source\repos\WpfApp4dz1\WpfApp4dz1\bin\Debug\WpfApp4dz1.pdb
+C:\Users\user\source\repos\WpfApp4dz1\WpfApp4dz1\obj\Debug\WpfApp4dz1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WpfApp4dz1\WpfApp4dz1\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\WpfApp4dz1\WpfApp4dz1\obj\Debug\App.g.cs
+C:\Users\user\source\repos\WpfApp4dz1\WpfApp4dz1\obj\Debug\WpfApp4dz1_MarkupCompile.cache
+C:\Users\user\source\repos\WpfApp4dz1\WpfApp4dz1\obj\Debug\WpfApp4dz1_MarkupCompile.lref
+C:\Users\user\source\repos\WpfApp4dz1\WpfApp4dz1\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\WpfApp4dz1\WpfApp4dz1\obj\Debug\WpfApp4dz1.g.resources
+C:\Users\user\source\repos\WpfApp4dz1\WpfApp4dz1\obj\Debug\WpfApp4dz1.Properties.Resources.resources
+C:\Users\user\source\repos\WpfApp4dz1\WpfApp4dz1\obj\Debug\WpfApp4dz1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WpfApp4dz1\WpfApp4dz1\obj\Debug\WpfApp4dz1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WpfApp4dz1\WpfApp4dz1\obj\Debug\WpfApp4dz1.exe
+C:\Users\user\source\repos\WpfApp4dz1\WpfApp4dz1\obj\Debug\WpfApp4dz1.pdb
